@@ -12,13 +12,13 @@
 
 - 👯 I’m looking to collaborate on [Senior Data Analyst role](https://public.tableau.com/app/profile/sajal.jain4190?authMode=activationSuccess)
 
-- 👨‍💻 All of my projects are available at [https://public.tableau.com/app/profile/sajal.jain4190?authMode=activationSuccess](https://public.tableau.com/app/profile/sajal.jain4190?authMode=activationSuccess)
+- 👨‍💻 All of my projects are available at [Tableau](https://public.tableau.com/app/profile/sajal.jain4190?authMode=activationSuccess) 
 
 - 💬 Ask me about **Data**
 
 - 📫 How to reach me **sajaljain.atwork@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Sd0RJukgjWAFUVOnHnfc5ChpoD-z3XXnhhNhT4ud3rM/edit](https://docs.google.com/document/d/1Sd0RJukgjWAFUVOnHnfc5ChpoD-z3XXnhhNhT4ud3rM/edit)
+- 📄 Know about my experiences [Link](https://docs.google.com/document/d/1Sd0RJukgjWAFUVOnHnfc5ChpoD-z3XXnhhNhT4ud3rM/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
