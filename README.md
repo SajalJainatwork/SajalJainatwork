@@ -1,4 +1,4 @@
-[![MasterHead](https://giny.cat/wp-content/uploads/2020/07/data-science-gif-purple-infographic.gif)]
+<img align="center" alt="Coding" height="400" width="1000" src="https://giny.cat/wp-content/uploads/2020/07/data-science-gif-purple-infographic.gif">
 <h1 align="center">Hi 👋, I'm Sajal</h1>
 <h3 align="center">A passionate Data Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
