@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👯 I’m looking to collaborate on [Senior Data Analyst role](https://public.tableau.com/app/profile/sajal.jain4190?authMode=activationSuccess)
+- 👯 I’m looking to collaborate on [Data Engineer](https://public.tableau.com/app/profile/sajal.jain4190?authMode=activationSuccess)
 
 - 👨‍💻 All of my projects are available at [Tableau](https://public.tableau.com/app/profile/sajal.jain4190?authMode=activationSuccess) 
 
