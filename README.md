@@ -33,3 +33,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajaljainatwork&show_icons=true&locale=en" alt="sajaljainatwork" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajaljainatwork&" alt="sajaljainatwork" /></p>
+
+[IBM Data Analysis with Python.pdf](https://github.com/SajalJainatwork/Data_Capstone/files/10450129/IBM.Data.Analysis.with.Python.pdf)
+
