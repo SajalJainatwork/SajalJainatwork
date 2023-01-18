@@ -34,6 +34,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajaljainatwork&" alt="sajaljainatwork" /></p>
 
-[IBM Data Analysis with Python.pdf](https://github.com/SajalJainatwork/SajalJainatwork/files/10450152/IBM.Data.Analysis.with.Python.pdf)
+![xxx](https://user-images.githubusercontent.com/106689439/213279549-6c5536cc-2515-4d9d-8d83-090d36186617.jpg)
+
 
 
