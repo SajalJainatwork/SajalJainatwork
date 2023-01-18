@@ -34,5 +34,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajaljainatwork&" alt="sajaljainatwork" /></p>
 
-[IBM Data Analysis with Python.pdf](https://github.com/SajalJainatwork/Data_Capstone/files/10450129/IBM.Data.Analysis.with.Python.pdf)
+[IBM Data Analysis with Python.pdf](https://github.com/SajalJainatwork/SajalJainatwork/files/10450152/IBM.Data.Analysis.with.Python.pdf)
+
 
