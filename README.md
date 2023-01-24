@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on [Data Engineer](https://public.tableau.com/app/profile/sajal.jain4190?authMode=activationSuccess)
 
-- 👨‍💻 All of my projects are available at [Data Science Portfolio](https://sajaljainatwork.github.io/) & [Tableau server](https://public.tableau.com/app/profile/sajal.jain4190?authMode=activationSuccess)
+- 👨‍💻 All of my projects are available at [Data Science Portfolio](https://sajaljainatwork.github.io/) & [Tableau public](https://public.tableau.com/app/profile/sajal.jain4190?authMode=activationSuccess)
 
 - 💬 Ask me about **Data**
 
