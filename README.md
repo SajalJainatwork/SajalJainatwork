@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **sajaljain.atwork@gmail.com**
 
-- 📄 Know about my experiences [Link](https://docs.google.com/document/d/1Sd0RJukgjWAFUVOnHnfc5ChpoD-z3XXnhhNhT4ud3rM/edit)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1Sd0RJukgjWAFUVOnHnfc5ChpoD-z3XXnhhNhT4ud3rM/edit) [CV](https://docs.google.com/document/d/1Qs-TqUxKW_dOTRgVhL-57dSDujxtLhHbV3NOOxJXywQ/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
