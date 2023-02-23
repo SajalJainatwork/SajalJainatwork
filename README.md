@@ -4,7 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajaljainatwork&label=Profile%20views&color=0e75b6&style=flat" alt="sajaljainatwork" /> </p>
 
-- 🔭 I’m currently working on **U.S Bank(Banking and Insurance) and Senior Data Analyst role**
+- 🔭 I’m currently working on Snowflake DWH and Business Analyst role
+
+- 👯 I have worked into Banking & Insurance (U.S. Bank) | Consulting Domains
 
 - 🌱 I’m currently learning **Data Science**
 
