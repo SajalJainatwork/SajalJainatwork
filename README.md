@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👯 I’m looking to collaborate on [Azure Data Engineer and Business Analyst]
+- 👯 I’m looking to collaborate on Azure Data Engineer and Business Analyst
 
 - 👨‍💻 All of my projects are available at [Data Science Portfolio](https://sajaljainatwork.github.io/) & [Tableau public](https://public.tableau.com/app/profile/sajal.jain4190?authMode=activationSuccess)
 
