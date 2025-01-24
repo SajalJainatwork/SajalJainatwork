@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on AWS, Snowflake DWH ,DBT , Git and Senior Data Engineer role for Salesforce client
 
-- 👯 I have worked into Banking & Insurance (U.S. Bank) | Consulting Domains
+- 👯 I have worked into Banking & Insurance for U.S. Bank  clients (Consulting Domains) | Expedia Group clients
 
 - 🌱 I’m currently learning **Data Science**
 
