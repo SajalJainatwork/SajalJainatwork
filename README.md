@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajaljainatwork&label=Profile%20views&color=0e75b6&style=flat" alt="sajaljainatwork" /> </p>
 
-- 🔭 I’m currently working on AWS, Snowflake DWH ,DBT , Git and Senior Data Engineer role for Salesforce client
+- 🔭 I’m currently working on AWS, Snowflake DWH ,ELT - DBT ,ETL - Alteryx, Git , SQL , SQL ServerTableau  and Senior Data Engineer role for Salesforce client
 
 - 👯 I have worked into Banking & Insurance for U.S. Bank  clients (Consulting Domains) | Expedia Group clients
 
