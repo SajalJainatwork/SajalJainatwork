@@ -8,7 +8,7 @@
 
 - 👯 I have worked into Banking & Insurance for U.S. Bank  clients (Consulting Domains) | Expedia Group clients
 
-- 🌱 I’m currently learning **GEN AI**
+- 🌱 I’m currently learning **Airflow & GEN AI**
 
 - 👯 I’m looking to collaborate on Data Engineer and Project Manager
 
