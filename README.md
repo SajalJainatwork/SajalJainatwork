@@ -36,7 +36,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajaljainatwork&" alt="sajaljainatwork" /></p>
 
-<img width="790" height="606" alt="snowpro core certified" src="https://github.com/user-attachments/assets/8fe02184-8f86-4312-9eff-926a83e39f85" />
+
+<img align="left" alt="Coding" width="300" src="https://github.com/user-attachments/assets/8fe02184-8f86-4312-9eff-926a83e39f85">
+
 
 
 
