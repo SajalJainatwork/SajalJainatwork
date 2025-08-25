@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on AWS, Snowflake DWH ,ELT - DBT ,ETL - Alteryx, Git , SQL , SQL ServerTableau  and Senior Data Engineer role for ABB clients
 
-- 👯 I have worked into Client Relationship Management (CRM) Analytics for Salesforce clients | Banking & Insurance for U.S. Bank  clients (Consulting Domains) | Travels & Tourism for Expedia Group clients | Duke Energy clients | Ever Commerce client | Cisco clients
+- 👯 I have worked into Client Relationship Management (CRM) Analytics for Salesforce clients | Banking & Insurance for U.S. Bank  clients (Consulting Domains) | Travels & Tourism for Expedia Group clients | Duke Energy clients | Ever Commerce clients | Cisco clients
 
 - 🌱 I’m currently learning **Airflow & GEN AI**
 
