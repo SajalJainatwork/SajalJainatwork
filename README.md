@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Data**
 
-- 📫 How to reach me **sajaljain.atwork@gmail.com**
+- 📫 How to reach me **ErSajalJain@zohomail.in**
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1cOb5ZToSv4rlqUPaiLr6mGzaer1t9FJV/edit?usp=sharing&ouid=114879272713025135382&rtpof=true&sd=true) & [CV](https://docs.google.com/document/d/1Qs-TqUxKW_dOTRgVhL-57dSDujxtLhHbV3NOOxJXywQ/edit)
 
