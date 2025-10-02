@@ -38,6 +38,9 @@
 
 
 <img align="left" alt="Coding" width="200" src="https://github.com/user-attachments/assets/8fe02184-8f86-4312-9eff-926a83e39f85">    <img align="left" alt="Coding" width="200" src="https://github.com/user-attachments/files/22659458/AWS.Certified.Cloud.Practitioner.certificate.pdf">
+<img align="left" alt="Coding" width="200" src="https://github.com/user-attachments/assets/118bfad8-df6d-4e6e-8728-3959e23efd55">
+
+
 
 
 
