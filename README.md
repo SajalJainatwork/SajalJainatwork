@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajaljainatwork&label=Profile%20views&color=0e75b6&style=flat" alt="sajaljainatwork" /> </p>
 
-- 🔭 I’m currently working on AWS, Snowflake DWH ,ELT - DBT ,ETL - Alteryx, Git , SQL , SQL ServerTableau  and Lead Consultant | Senior Data Engineer role for ABB clients
+- 🔭 I’m currently working on AWS, Snowflake DWH ,ELT - DBT , Azure DevOps, Qlik Compose, ETL - Alteryx, Git , SQL , SQL ServerTableau  and Lead Consultant | Senior Data Engineer role for ABB clients
 
 - 👯 I have worked into Client Relationship Management (CRM) Analytics for Salesforce clients | Banking & Insurance for U.S. Bank  clients (Consulting Domains) | Travels & Tourism for Expedia Group clients | Duke Energy clients | Ever Commerce clients | Cisco clients
 
 - 🌱 I’m currently learning **Airflow & GEN AI**
 
-- 👯 I’m looking to collaborate on Data Engineer and Project Manager
+- 👯 I’m looking to collaborate on Solution Architect, Data Engineer and Project Manager
 
 - 👨‍💻 All of my projects are available at [Data Science Portfolio](https://sajaljainatwork.github.io/) & [Tableau public](https://public.tableau.com/app/profile/sajal.jain4190?authMode=activationSuccess)
 
