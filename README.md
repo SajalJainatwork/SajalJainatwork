@@ -8,7 +8,7 @@
 
 - 👯 I have worked into Client Relationship Management (CRM) Analytics for Salesforce clients | Banking & Insurance for U.S. Bank  clients (Consulting Domains) | Travels & Tourism for Expedia Group clients | Duke Energy clients | Ever Commerce clients | Cisco clients
 
-- 🌱 I’m currently learning **Airflow & GEN AI**
+- 🌱 I’m currently learning **AI Engineering**
 
 - 👯 I’m looking to collaborate on Solution Architect, Data Engineer and Project Manager
 
