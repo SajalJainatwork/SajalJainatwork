@@ -37,8 +37,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajaljainatwork&" alt="sajaljainatwork"/></p>
 
 
-<img align="left" alt="Coding" width="200" src="https://github.com/user-attachments/assets/8fe02184-8f86-4312-9eff-926a83e39f85">  <img align="left" alt="Coding" width="200" src="https://github.com/user-attachments/assets/118bfad8-df6d-4e6e-8728-3959e23efd55">  <img align="left" alt="Coding" width="200" src= "https://github.com/user-attachments/assets/9481e296-eb8c-41a2-b4f7-11fbd6ea076c">
-
 <p> <img align="left" alt="Coding" width="200" src= "https://github.com/user-attachments/assets/7855f1e2-0c40-48f6-9d2e-d4e001408124"></p>
 <img align="left" alt="Coding" width="200" src="https://github.com/user-attachments/assets/7855f1e2-0c40-48f6-9d2e-d4e001408124">  <img align="left" alt="Coding" width="200" src="https://github.com/user-attachments/assets/8fe02184-8f86-4312-9eff-926a83e39f85">  <img align="left" alt="Coding" width="200" src="https://github.com/user-attachments/assets/118bfad8-df6d-4e6e-8728-3959e23efd55">  <img align="left" alt="Coding" width="200" src= "https://github.com/user-attachments/assets/9481e296-eb8c-41a2-b4f7-11fbd6ea076c">
 
