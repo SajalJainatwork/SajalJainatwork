@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on AWS, Snowflake DWH, ELT - DBT, Azure DevOps, Qlik Compose, ETL - Alteryx, Git, SQL , SQL Server, Tableau, Qlik View  and Lead Consultant | Senior Cloud Data Engineer role for ABB clients
 
-- 👯 I have worked into Client Relationship Management (CRM) Analytics for Salesforce clients (Software Development) | Banking & Insurance for U.S. Bank  clients (Banking) | KPMG clients (Financial Services) | BCG clients (Business Consulting and Services)
+- 👯 I have delivered high-value data solutions across diverse sectors: Client Relationship Management (CRM) Analytics for Salesforce clients, Banking & Insurance for U.S. Bank and KPMG clients, and strategic data consulting for BCG clients.
 
 - 🌱 I’m currently learning **AI Engineering**
 
