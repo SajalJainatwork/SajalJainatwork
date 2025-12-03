@@ -41,6 +41,7 @@
 <p> <img align="left" alt="Coding" height="200" width="200" src= "https://github.com/user-attachments/assets/9a3ebaa7-d9df-4d13-b7a0-3a9bd73c5d98"> <p> <img align="left" alt="Coding" height="200" width="200" src="https://github.com/user-attachments/assets/acfa8d3e-d1d0-47c4-a9ab-0d4b91afd40c"></p><img align="left" alt="Coding" height="200" width="200" src="https://github.com/user-attachments/assets/8fe02184-8f86-4312-9eff-926a83e39f85">  <img align="left" alt="Coding" height="200" width="200" src="https://github.com/user-attachments/assets/118bfad8-df6d-4e6e-8728-3959e23efd55">  <img align="left" alt="Coding" height="200" width="200" src= "https://github.com/user-attachments/assets/9481e296-eb8c-41a2-b4f7-11fbd6ea076c"> <img align="left" alt="Coding" height="200" width="200" src="https://github.com/user-attachments/assets/177f2153-e034-4049-a9fe-570e15926e3a"> <img align="left" alt="Coding" height="200" width="200" src= "https://github.com/user-attachments/assets/3fdafe5d-a6fd-4431-9dbe-cd74993655cc"/>  </p>
 
 
+[AWS Certified AI Practitioner certificate.pdf](https://github.com/user-attachments/files/23893665/AWS.Certified.AI.Practitioner.certificate.pdf)
 
 
 
