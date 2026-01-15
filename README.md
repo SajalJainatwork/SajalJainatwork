@@ -8,7 +8,7 @@
 
 - 👯 I have delivered high-value data solutions across diverse sectors: Client Relationship Management (CRM) Analytics for Salesforce clients, Banking & Insurance for U.S. Bank and KPMG clients, and strategic data consulting for BCG clients.
 
-- 🌱 I’m currently learning **AI Engineering**
+- 🌱 I’m currently learning **Matillion & AI Engineering**
 
 - 👯 I’m looking to collaborate on Solution Architect, Data Engineer and Project Manager
 
