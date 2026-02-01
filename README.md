@@ -8,7 +8,7 @@
 
 - 👯 I have delivered high-value data solutions across diverse sectors: Client Relationship Management (CRM) Analytics for Salesforce clients, Banking & Insurance for U.S. Bank and KPMG clients, strategic data consulting for BCG clients and lead consultant for ABB clients.
 
-- 🌱 I’m currently learning **Databricks & AI Engineering**
+- 🌱 I’m currently learning **Databricks 🧱🔥 & AI Engineering 🤖🧠**
 
 - 👯 I’m looking to collaborate on Solution Architect, Data Engineer and Project Manager
 
