@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajaljainatwork&label=Profile%20views&color=0e75b6&style=flat" alt="sajaljainatwork" /> </p>
 
-- 🔭 I’m currently working on  Snowflake ❄️, Snowflake Cortex, ELT - DBT 🧱, AWS ☁️ (S3 🪣, IAM 🔐, Glue,Athena 🔍, EMR, Lambda, Redshift), Streamlit, Azure DevOps, Qlik Compose, ETL - Alteryx, CI/CD 🔁, Git, SQL , SQL Server, Tableau📊, SAP,  Qlik View  and Solution Architect | Principal Consultant | Lead Consultant | Senior Cloud Data Engineer role for different clients.
+- 🔭 I’m currently working on  Snowflake ❄️, Snowflake Cortex, ELT - DBT 🧱, AWS ☁️ (S3 🪣, IAM 🔐, Glue,Athena 🔍, EMR, Lambda, Redshift), Streamlit, Azure DevOps, Qlik Compose, ETL - Alteryx, CI/CD 🔁, Git, SQL , SQL Server, Tableau📊, Apache Airflow ⏱️, SAP,  Qlik View  and Solution Architect | Principal Consultant | Lead Consultant | Senior Cloud Data Engineer role for different clients.
 
 - 👯 I have delivered high-value data solutions across diverse sectors: Client Relationship Management (CRM) Analytics for Salesforce clients, Banking & Insurance for U.S. Bank and KPMG clients, strategic data consulting for BCG clients and lead consultant for ABB clients.
 
