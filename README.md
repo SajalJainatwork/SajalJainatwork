@@ -43,3 +43,51 @@
 <p> <img align="left" alt="Coding" height="200" width="200" src= "https://github.com/user-attachments/assets/9a3ebaa7-d9df-4d13-b7a0-3a9bd73c5d98"/> </p>
 <p> <img align="left" alt="Coding" height="200" width="200" src="https://github.com/user-attachments/assets/acfa8d3e-d1d0-47c4-a9ab-0d4b91afd40c"></p><img align="left" alt="Coding" height="200" width="200" src="https://github.com/user-attachments/assets/8fe02184-8f86-4312-9eff-926a83e39f85">  <img align="left" alt="Coding" height="200" width="200" src="https://github.com/user-attachments/assets/118bfad8-df6d-4e6e-8728-3959e23efd55">  <img align="left" alt="Coding" height="200" width="200" src= "https://github.com/user-attachments/assets/9481e296-eb8c-41a2-b4f7-11fbd6ea076c"><img align="left" alt="Coding" height="200" width="200" src="https://github.com/user-attachments/assets/7902370a-acb8-4e52-a846-53c0803f0ff7" /> <img align="left" alt="Coding" height="200" width="200" src="https://github.com/user-attachments/assets/177f2153-e034-4049-a9fe-570e15926e3a"> <img align="left" alt="Coding" height="200" width="200" src= "https://github.com/user-attachments/assets/3fdafe5d-a6fd-4431-9dbe-cd74993655cc"/> <img align="left" alt="Coding" height="200" width="200"  src="https://github.com/user-attachments/assets/0aeaa651-f9e6-4221-bc97-2ea1e158f4f6" /> </p> 
 
+<!--
+  PROFILE README TEMPLATE
+  1. Create a public repository named EXACTLY your GitHub username (e.g. github.com/OCTOCAT/OCTOCAT).
+  2. Replace ALL-CAPS placeholders below (YOUR_USERNAME, YOUR_NAME, etc.).
+  3. Widths 370 / 490 keep the ASCII portrait and 3D wordmark at the exact same visual height.
+-->
+<div align="center">
+
+<!-- hero: monochrome ASCII portrait (types in) beside the extruded 3d ascii
+     wordmark (wipes in left-to-right, then rocks on its vertical axis).
+     widths are picked so both panels land at the same height.
+     portrait: python scripts/prep_photo.py <photo> && python scripts/make_ascii_svg.py
+     wordmark: python scripts/make_wordmark_svg.py --mode rock -->
+
+<h3><code>YOUR_USERNAME@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="./avi-ascii.svg" width="370" alt="YOUR_NAME — ASCII portrait" /></td>
+<td valign="top"><img src="./wordmark.svg" width="490" alt="YOUR_NAME — 3D ASCII wordmark" /></td>
+</tr>
+</table>
+
+<br>
+<br>
+
+<!-- animated contribution graph: real data, boxes reveal cell by cell
+     (regenerated daily by .github/workflows/update-profile-art.yml) -->
+
+<h3><code>YOUR_USERNAME@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph — auto-refreshed daily" />
+
+<br>
+<br>
+
+<h3><code>YOUR_USERNAME@github ~ $ ./links.sh</code></h3>
+
+<p><b>Your Role · Specialization · Passion</b></p>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-YOURSITE.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://YOURSITE.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YOUR_LINKEDIN_HANDLE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE)
+[![X](https://img.shields.io/badge/X-YOUR_X_HANDLE-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_X_HANDLE)
+[![Instagram](https://img.shields.io/badge/Instagram-YOUR_INSTAGRAM_HANDLE-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_HANDLE)
+
+<br>
+
+</div>
