@@ -84,7 +84,7 @@
 <p><b>Your Role · Specialization · Passion</b></p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-YOURSITE.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://sajaljainatwork.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YOUR_LINKEDIN_HANDLE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YOUR_LINKEDIN_HANDLE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajal-jain-3196b4240)
 [![X](https://img.shields.io/badge/X-YOUR_X_HANDLE-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_X_HANDLE)
 [![Instagram](https://img.shields.io/badge/Instagram-YOUR_INSTAGRAM_HANDLE-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_HANDLE)
 
